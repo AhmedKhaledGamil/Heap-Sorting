@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/MaxHeap.dir/33706_AhmedKhaledGamil.cpp.o  -o MaxHeap.exe -Wl,--out-implib,libMaxHeap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
